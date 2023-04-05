@@ -1,0 +1,28 @@
+.slide{
+    height: 80%;
+    width: 80%;
+    margin:50px auto
+}
+.banner{
+    height: 80%;
+    
+}
+.banner img{
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.list-img{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    
+}
+
+.list-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: cover;
+}
